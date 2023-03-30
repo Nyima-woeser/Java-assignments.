@@ -1,11 +1,11 @@
 Class check_int{
-   Public static void main(Strong[] let){
+   public static void main(String[] let){
       int num = 3;
       if (num >= 0){
-         System.out.println("the given number is positive");
+         System.out.println("the number is positive");
       }
       else{
-         System.out.println("the given number is negative");
+         System.out.println("the number is negative");
       }
    return
    }
