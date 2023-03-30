@@ -1,5 +1,5 @@
 Class check_int{
-   public static void main(String[] let){
+   public static void main(String[] lst){
       int num = 3;
       if (num >= 0){
          System.out.println("the number is positive");
